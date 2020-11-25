@@ -1,6 +1,6 @@
 # eschalot
 
-Dockerfile for https://github.com/ReclaimYourPrivacy/eschalot based on Ubuntu 18.04 and built from source
+Dockerfile for https://github.com/ReclaimYourPrivacy/eschalot based on Ubuntu 20.04 and built from source
 
 ## Usage
 
